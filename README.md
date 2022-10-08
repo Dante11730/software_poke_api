@@ -12,3 +12,7 @@ el segundo esta ubicado en la carpeta
 bloques, que a su vez contiene otra carpeta llamada usuarios que contiene el segundo archivo conexión.php, 
 dentro de estos archivos se deberá agregar la contraseña y o el root en caso de contar con uno en específico, 
 pero si no es así solo será agregar la contraseña del servidor tanto para el archivo de conexión numero uno como también para el archivo de conexión número dos.
+
+Como informacion extra use xammp y phpmyadmin para realizar la base de datos.
+
+Cualquier duda comunicarse a este correo electronico lion313ctb@gmail.com
