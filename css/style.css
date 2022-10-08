@@ -1,0 +1,187 @@
+.let {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+#inicios {
+       height: 100vh;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       background-image: url(../img/fondo.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+   } 
+
+.container-form {
+    width: 90%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    transition:  all .5s ease-out;
+}
+
+.welcome-back {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.message {
+    padding: 1rem;
+}
+
+.submit {
+    padding: 1rem;
+    font-weight: 400;
+    background-color: #fd3c24;
+    border-radius: 2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: .9rem;
+    margin-top: 2rem;
+    transition: all .3s ease-in;  
+    color: #fff;
+    Text-decoration:none;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.submit:hover {
+    background-color: #6464f8;
+}
+
+#regi:hover {
+    background-color: #fd3c24;
+    border: solid thin  #fd3c24;
+
+}
+
+.formulario {
+    width: 400px;
+    padding: 1rem;
+    margin: 5rem;
+    background-color: rgb(51, 51, 51, 0.602);
+    text-align: center;
+}
+
+.create-account {
+    padding: 2.7rem 0;
+    font-size: 1.7rem;
+}
+
+.formulario input {
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color: transparent;
+    border: none;
+    border-bottom: white thin solid;
+    text-align: center;
+    outline: none;
+    padding: .2rem 0;
+    font-size: .9rem;
+    color: white;
+}
+
+.a {
+    width: 60%;
+    margin: auto;
+    border: solid thin  #6464f8;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: #6464f8 ;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-size: .8rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.formulario input[type="submit"] {
+    width: 60%;
+    margin: auto;
+    border: solid thin  #6464f8;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: #6464f8 ;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-size: .8rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.habili {
+    width: 60%;
+    margin: auto;
+    border: solid thin  #6464f8;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: #6464f8 ;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-size: .8rem;
+    cursor: pointer;
+    color: #fff;
+    Text-decoration:none;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.habili:hover {
+    background-color: #fd3c24;
+    border: solid thin  #fd3c24;
+
+}
+
+#sesion {
+    padding: 1rem;
+    font-weight: 400;
+    background-color: #fd3c24;
+    border-radius: 2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: .9rem;
+    margin-top: 2rem;
+    transition: all .3s ease-in;  
+    color: #fff;
+    Text-decoration:none;
+    font-family: 'Roboto', sans-serif;
+
+}
+#sesion:hover {
+    background-color: #6464f8;
+}
+
+#ini_hab {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/fon_ama.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ini_poke {
+    height: 145vh;
+    
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/fon_poke.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+}
