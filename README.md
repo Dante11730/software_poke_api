@@ -16,3 +16,6 @@ pero si no es así solo será agregar la contraseña del servidor tanto para el 
 Como informacion extra use xammp y phpmyadmin para realizar la base de datos.
 
 Cualquier duda comunicarse a este correo electronico lion313ctb@gmail.com
+
+
+....-...l
